@@ -15,4 +15,4 @@ To use the FCFS scheduler:
 
 Future Improvements
 - Adding support for other scheduling algorithms (e.g., SJF, Round Robin).
-- Interactive CLI/GUI for process input and scheduling visualization.
+- Interactive CLI/GUI for process input and scheduling visualization. 
